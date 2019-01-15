@@ -1,0 +1,3 @@
+rootProject.name = 'roadTo1000'
+
+include ':app'
